@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<elements>
+
+<boot>
+:lelcube: **lelcubeOS** 15
+Starting...
+
+:gear: :window: :shell: :package: :inbox_tray: :file_folder:
+</boot>
+
+<lelboot>
+**What OS you want?**
+:lelcube: lelcubeOS 15
+:gear: Boring OS X (Terminal)
+
+:technologist: Go to BIOS
+</lelboot>
+
+<lelboot-fanos>
+**What OS you want?**
+:lelcube: lelcubeOS 15
+:gear: Boring OS X (Terminal)
+:regional_indicator_f: FanOS
+
+:technologist: Go to BIOS
+</lelboot-fanos>
+
+<lelboot-usb>
+**What OS you want?**
+:lelcube: lelcubeOS 15
+:gear: Boring OS X (Terminal)
+:flashlight: Boot from flash drive (`flash drive name`)
+
+:technologist: Go to BIOS
+</lelboot-usb>
+
+<lelbios1>
+**Lelbios** 
+Default
+Save
+Exit
+
+**System**
+Boot
+Security
+
+CPU: Lelcube Technologies X8 H2992J @ 6.9 GHz
+GPU: Lelcube Technologies X8 GPU 299J2
+RAM Slot 1: Lelcube Technologies EpokRAM 24GB DDR5
+RAM Slot 2: Not installed
+Display: 1920x1080 16:9 60 Hz
+Storage: Lelcube Technologies EpokSSD 4TB
+OSes: lelcubeOS 15, Boring OS X
+
+Date: 69/420/2023
+Time: 15:15
+</lelbios1>
+
+<lelbios2>
+**Lelbios** 
+Default
+Save
+Exit
+
+System
+**Boot**
+Security
+
+lelcubeOS: BOOT:bosx/lelboot.boot
+Boring OS X: BOOT:bosx/bosx.boot
+</lelbios2>
+
+<lelbios3>
+**Lelbios** 
+Default
+Save
+Exit
+
+System
+Boot
+**Security**
+
+**Protected Boot: ON**
+Protected Boot prevents OSes from doing ***intense hax*** so it can boot on your computer without your permission
+
+**Protected Storage: ON**
+Protected Storage prevents stuff outside of your computer from doing ***veri intense hax*** so it can randomly delete everything in the disk lol trust me there was an OS that could do that
+</lelbios3>
+
+<installer1>
+:lelcube: :arrows_counterclockwise:
+</installer1>
+
+<installer2>
+:lelcube: **lelcubeOS Installer**
+
+**Select a language**
+> **:flag_us: English**
+> :lelcube: :lelcube: :lelcube: :lelcube: (Lelcubish)
+
+**Select a keyboard layout**
+> **Keyboard.**
+> Programmer keyboard (only has ctrl, c and v)
+> Programmer keyboard v2 (now with a stack overflow button!
+
+> :test_tube: Try lelcubeOS
+> :inbox_tray: Install lelcubeOS now
+</installer2>
+
+<installer3>
+:lelcube: **lelcubeOS Installer**
+
+**How you will setup partitions?**
+> :fast_forward: **Automatic**
+> Setup different partitions for system and home on sda, will let you choose which OS you want if you already installed one before
+> 
+> :boom: **Clean Install (WILL DELETE ALL YOUR DATA!!!)**
+> Like automatic, but will delete everything in sda
+> 
+> :tools: **Something else**
+> Setup partitions
+</installer3>
+
+<installer-partition>
+:dividers: **Leldiskmgr**
+
+**sda** | sdb
+Apply changes and continue the installation
+
+sda69 - lfs2 - label this is a partition template btw - 69GB - 68GB - 1GB
+</installer-partition>
+
+<installer4>
+:lelcube: **lelcubeOS Installer**
+
+:page_facing_up: :file_folder: :musical_note: :video_game: 
+           :lelcube: 
+:film_frames: :frame_photo: :tools: :art: 
+
+**Welcome to lelcubeOS 15!**
+
+Setting up partitions...
+</installer4>
+
+<installer5>
+:lelcube: **lelcubeOS Installer**
+
+:computer: :lelcube: 
+
+**Your desktop, but better.**
+lelcubeOS 15 makes using your computer easier. It's easy to get started, but still great for power users! Your computer is more secure, thanks to the powerful Leldefender technology. lelcubeOS is built on top of the powerful, rock-solid Boring OS X technologies, which also powers other operating systems, such as SweatOS and vroomOS. Some of Boring OS X's code is even used on FanOS!
+
+Copying files...
+</installer5>
+
+<installer6>
+:lelcube: **lelcubeOS Installer**
+
+:gear: :mag: :lelcube: 
+
+**You *actually* own your computer**
+On lelcubeOS, you can do whatever you want with it. And since the full lelcubeOS source code is public, if you have the required skills, you can see how it works, improve lelcubeOS, or even make your own lelcubeOS version! It's on https://gethub.com/lelcube btw
+
+Copying more files...
+</installer6>
+
+<installer7>
+:lelcube: **lelcubeOS Installer**
+
+:guitar: :file_folder: :paintbrush: 
+:clapper: :lelcube: :boom: 
+:video_game: :tv: :earth_americas: 
+
+**A world of amazing (or terrible) apps**
+Since lelcubeOS has been one of the most popular OSes out there since its first release in 2015, many developers made great apps for lelcubeOS! You can find anything: Development tools, education apps, games, graphics programs, internet apps, multimedia tools, office suites, utilities, etc. Most of them are available for lelcubeOS! And with the Fine compatibility layer, you *may* be able to run FanOS apps! You can find apps in the lelshop app.
+
+Setting up environment...
+</installer7>
+
+<installer8>
+:lelcube: **lelcubeOS Installer**
+
+:desktop: :lelcube: :thumbsup: 
+
+**Thank you!**
+ Thank you for choosing lelcubeOS. We hope you like lelcubeOS as much as we liked developing it!
+
+Getting ready...
+</installer8>
+
+<installer9>
+:lelcube: **lelcubeOS** 15
+
+Please remove flash drive/DVD then press enter
+</installer9>
+
+<tour>
+:rocket: **Tour**
+
+TODO: Update this
+
+> Continue
+</tour>
+
+<desktop>
+**15:15 - Merch 0, 2023**
+This desktop is a placeholder. We haven't added the fhish desktop yet because we are still testing the new technologies.
+
+> :file_folder: Lelfinder
+> :earth_americas: Lelbrowser
+> :shopping_bags: Lelshop
+> :gear: Settings
+</desktop>
+
+<lelbrowser>
+:earth_americas: **Lelbrowser**
+searhcmghmr,elll
+</lelbrowser>
+
+<lelshop>
+:shopping_bags: **Lelshop** | :mag: 
+
+**:banana: Banana Game Engine • Creative Company • 9999999% liked • Legacyn't**
+Tha best game engine ever made :sunglasses: :sunglasses: :sunglasses: :sunglasses: :sunglasses: :sunglasses: :sunglasses: :sunglasses:
+
+**Editor's picks (Note: The editor will often choose random apps cuz funni)**
+> :recycle: Visual Studio Code • Microsoft • 96% liked • Legacy
+> :eye: Data collector • Creative Company • 10% liked • Legacy
+> :bird: Digital bird • Potatopatata Studios • 89% liked • Legacy
+> :pencil: Lelnotepad but with a different icon and name • Creative Company • 69% liked • Legacy
+
+**Recent releases**
+> :calendar: Calendar 2 • Arts Electronic • % liked • Legacy
+> :teacher: Anxiety simulator • Pain • 1% liked • Legacy
+> :man: jshj jssj hsjsj  jsjj sj jsjsjs • Pain • 0% liked • Legacyn't
+> :brain: Brain installer for super dumb people • Creative Company • 9% liked • Legacy
+
+**Popular apps**
+> :jack_o_lantern: Spooky Month • Potatopatata Studios • 95% liked • Legacy
+> :musical_note: Music - Music app with a creative name • Creative Company • 46% liked • Legacy
+> :flying_saucer: ALIEN DETECTOR • Creative Company • 2% liked • Legacy
+> :frame_photo: A gallery of 100% random photos uploaded by users without any verifications (the community is cancer) • Potatopatata Studios • 5% liked • Legacy
+
+**Recommended**
+> :fork_and_knife: Food uwu • Creative Company • 86% liked • Legacy
+> :paintbrush: Adobe Illustrator • Adobe • 98% liked • Legacy
+> :money_mouth: Free money! • Creative Company • 32% liked • Legacy
+> :grinning: Virus lol • Creative Company • -264% liked • Legacy
+
+**Super cook games**
+> :floppy_disk: Fancade • Martin Magni • 79% liked • Legacy
+> :herb: Minecraft • Mojang • 91% liked • Legacy
+> :lelcube: Lelmasters 2100 Pro • Lelcube Technologies • 98% liked • Legacy
+> :sauropod: Dino Bros • Martin Magni • 26543234654% liked • Legacy
+</lelshop>
+
+<settings>
+:gear: **Settings**
+
+**Options**
+> :map: Language
+> :inbox_tray: Update
+> :boot: Boot
+</settings>
+
+<settings-language>
+**Language**
+> __**:flag_us: English**__
+> :lelcube: Lelcubish (may break your device)
+</settings-language>
+
+<settings-update>
+:white_check_mark: **You have the latest version**
+> Installed version: lelcubeOS 15 Developer Preview 1 (15.0.500)
+> Latest developer preview: lelcubeOS 14 Developer Preview 3 (14.0.500)
+> Latest stable version: lelcubeOS 14 RTM (14.0.1000)
+
+**Update**
+> M
+</settings-update>
+
+<settings-boot>
+**You can choose what OS you want to use by pressing `del` many times while your lelptop is starting**
+
+:negative_squared_cross_mark: Show boot manager when boot (If not enabled, lelcubeOS will start automatically)
+
+**Installed OSes**
+> :gear: Boring OS X 400 (Kernel)
+> :lelcube: lelcubeOS 15
+</settings-boot>
+
+</elements>
